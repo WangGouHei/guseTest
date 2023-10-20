@@ -1,7 +1,17 @@
-/* 
-  Localizable.strings
-  GuseTest
+// acid green
+"color_acid_green" = "酸性绿";
 
-  Created by 王狗大 on 2023/10/20.
-  
-*/
+// adobe
+"color_adobe" = "Adobe";
+
+// algae
+"color_algae" = "藻类";
+
+// algae green
+"color_algae_green" = "藻绿";
+
+// almost black
+"color_almost_black" = "几乎黑色";
+
+// apricot
+"color_apricot" = "杏子";

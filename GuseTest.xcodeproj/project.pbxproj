@@ -60,6 +60,8 @@
 		9785C8B42AE2DA7300B7011F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
 		9785C8B52AE2DA7300B7011F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		9785C8B62AE2DA7300B7011F /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		B80811E31A332EE1A09CB625 /* zh-HK */ = {isa = PBXFileReference; explicitFileType = text.plist.strings; lastKnownFileType = text.plist.strings; name = "zh-HK"; path = "zh-HK.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		DC5A731E4E7CFF27AE5CD92D /* zh-TW */ = {isa = PBXFileReference; explicitFileType = text.plist.strings; lastKnownFileType = text.plist.strings; name = "zh-TW"; path = "zh-TW.lproj/Localizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -342,6 +344,8 @@
 				9785C8B22AE2DA6900B7011F /* zh-Hans */,
 				9785C8B32AE2DA6A00B7011F /* zh-Hant */,
 				9785C8B62AE2DA7300B7011F /* ja */,
+				DC5A731E4E7CFF27AE5CD92D /* zh-TW */,
+				B80811E31A332EE1A09CB625 /* zh-HK */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

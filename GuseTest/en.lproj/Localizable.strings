@@ -1,1906 +1,970 @@
-/* 
-  Localizable.strings
-  GuseTest
-
-  Created by 王狗大 on 2023/10/20.
-  
-*/
-
-
 "color_cinnamon" = "cinnamon";
-
 "color_umber" = "umber";
-
 "color_dark_salmon" = "dark salmon";
-
 "color_camouflage_green" = "camouflage green";
-
 "color_bile" = "bile";
-
 "color_yellowish_brown" = "yellowish brown";
-
 "color_poop_brown" = "poop brown";
-
 "color_seafoam" = "seafoam";
-
 "color_vermillion" = "vermillion";
-
 "color_yellowish" = "yellowish";
-
 "color_easter_purple" = "easter purple";
-
 "color_salmon_pink" = "salmon pink";
-
 "color_dark_grey" = "dark grey";
-
 "color_lavender_blue" = "lavender blue";
-
 "color_ocean_blue" = "ocean blue";
-
 "color_olive_green" = "olive green";
-
 "color_ocean" = "ocean";
-
 "color_pine" = "pine";
-
 "color_bluey_purple" = "bluey purple";
-
 "color_azul" = "azul";
-
 "color_baby_shit_brown" = "baby shit brown";
-
 "color_earth" = "earth";
-
 "color_moss" = "moss";
-
 "color_lighter_purple" = "lighter purple";
-
 "color_baby_pink" = "baby pink";
-
 "color_mossy_green" = "mossy green";
-
 "color_green_teal" = "green teal";
-
 "color_mulberry" = "mulberry";
-
 "color_faded_green" = "faded green";
-
 "color_dull_orange" = "dull orange";
-
 "color_brownish_pink" = "brownish pink";
-
 "color_irish_green" = "irish green";
-
 "color_sandy_yellow" = "sandy yellow";
-
 "color_dusky_pink" = "dusky pink";
-
 "color_light_blue_green" = "light blue green";
-
 "color_dirt" = "dirt";
-
 "color_puke_green" = "puke green";
-
 "color_burnt_orange" = "burnt orange";
-
 "color_medium_brown" = "medium brown";
-
 "color_light_aquamarine" = "light aquamarine";
-
 "color_bronze" = "bronze";
-
 "color_scarlet" = "scarlet";
-
 "color_mid_blue" = "mid blue";
-
 "color_red_violet" = "red violet";
-
 "color_burnt_sienna" = "burnt sienna";
-
 "color_army_green" = "army green";
-
 "color_ice" = "ice";
-
 "color_pale" = "pale";
-
 "color_raspberry" = "raspberry";
-
 "color_pale_green" = "pale green";
-
 "color_mud" = "mud";
-
 "color_muted_pink" = "muted pink";
-
 "color_blue_violet" = "blue violet";
-
 "color_lavender_pink" = "lavender pink";
-
 "color_lipstick_red" = "lipstick red";
-
 "color_electric_green" = "electric green";
-
 "color_bluish_purple" = "bluish purple";
-
 "color_orange_pink" = "orange pink";
-
 "color_barney" = "barney";
-
 "color_periwinkle_blue" = "periwinkle blue";
-
 "color_brown_orange" = "brown orange";
-
 "color_darkblue" = "darkblue";
-
 "color_lime_yellow" = "lime yellow";
-
 "color_hospital_green" = "hospital green";
 
+// apple green
 "color_apple_green" = "apple green";
-
 "color_greyish_purple" = "greyish purple";
-
 "color_royal_purple" = "royal purple";
-
 "color_spearmint" = "spearmint";
-
 "color_blush" = "blush";
-
 "color_violet_pink" = "violet pink";
-
 "color_vivid_purple" = "vivid purple";
-
 "color_metallic_blue" = "metallic blue";
-
 "color_dark_blue_green" = "dark blue green";
 
+// apricot
 "color_apricot" = "apricot";
-
 "color_light_red" = "light red";
-
 "color_dark_rose" = "dark rose";
-
 "color_very_dark_green" = "very dark green";
-
 "color_tea" = "tea";
-
 "color_puke" = "puke";
-
 "color_really_light_blue" = "really light blue";
-
 "color_faded_yellow" = "faded yellow";
-
 "color_silver" = "silver";
-
 "color_butterscotch" = "butterscotch";
-
 "color_purple_pink" = "purple pink";
-
 "color_racing_green" = "racing green";
-
 "color_dirty_orange" = "dirty orange";
-
 "color_bright_orange" = "bright orange";
-
 "color_shit_green" = "shit green";
-
 "color_light_lilac" = "light lilac";
-
 "color_soft_blue" = "soft blue";
-
 "color_light_pink" = "light pink";
-
 "color_purpleish" = "purpleish";
-
 "color_poop" = "poop";
-
 "color_light_grey" = "light grey";
-
 "color_fuchsia" = "fuchsia";
-
 "color_yellow_orange" = "yellow orange";
-
 "color_dark_turquoise" = "dark turquoise";
-
 "color_purplish_pink" = "purplish pink";
-
 "color_light_light_blue" = "light light blue";
-
 "color_dried_blood" = "dried blood";
-
 "color_seafoam_blue" = "seafoam blue";
-
 "color_orangish_brown" = "orangish brown";
-
 "color_orangey_red" = "orangey red";
-
 "color_dusky_purple" = "dusky purple";
-
 "color_shit" = "shit";
-
 "color_dark_taupe" = "dark taupe";
-
 "color_tealish" = "tealish";
-
 "color_dusky_blue" = "dusky blue";
-
 "color_dull_green" = "dull green";
-
 "color_burnt_siena" = "burnt siena";
-
 "color_light_grey_blue" = "light grey blue";
-
 "color_peachy_pink" = "peachy pink";
-
 "color_warm_brown" = "warm brown";
-
 "color_bright_sea_green" = "bright sea green";
-
 "color_very_light_blue" = "very light blue";
-
 "color_greenish_turquoise" = "greenish turquoise";
-
 "color_pinky_purple" = "pinky purple";
-
 "color_off_white" = "off white";
-
 "color_reddy_brown" = "reddy brown";
-
 "color_light_violet" = "light violet";
-
 "color_frog_green" = "frog green";
-
 "color_light_moss_green" = "light moss green";
-
 "color_rouge" = "rouge";
-
 "color_duck_egg_blue" = "duck egg blue";
-
 "color_white" = "white";
-
 "color_pastel_red" = "pastel red";
-
 "color_greenish_grey" = "greenish grey";
-
 "color_purply_blue" = "purply blue";
-
 "color_toxic_green" = "toxic green";
-
 "color_swamp_green" = "swamp green";
-
 "color_macaroni_and_cheese" = "macaroni and cheese";
-
 "color_yellowish_orange" = "yellowish orange";
-
 "color_neon_purple" = "neon purple";
-
 "color_canary_yellow" = "canary yellow";
-
 "color_blue_grey" = "blue grey";
-
 "color_lime_green" = "lime green";
-
 "color_marine_blue" = "marine blue";
-
 "color_lemon" = "lemon";
-
 "color_stone" = "stone";
-
 "color_dark_mauve" = "dark mauve";
-
 "color_reddish_purple" = "reddish purple";
-
 "color_green" = "green";
-
 "color_cobalt_blue" = "cobalt blue";
-
 "color_dark_sky_blue" = "dark sky blue";
-
 "color_pale_pink" = "pale pink";
-
 "color_ocre" = "ocre";
-
 "color_forest_green" = "forest green";
-
 "color_light_lime" = "light lime";
-
 "color_camo_green" = "camo green";
-
 "color_desert" = "desert";
-
 "color_saffron" = "saffron";
-
 "color_robin's_egg" = "robin's egg";
-
 "color_swamp" = "swamp";
-
 "color_faded_orange" = "faded orange";
-
 "color_burnt_yellow" = "burnt yellow";
-
 "color_light_pea_green" = "light pea green";
-
 "color_tiffany_blue" = "tiffany blue";
-
 "color_dark_lime_green" = "dark lime green";
-
 "color_light_salmon" = "light salmon";
-
 "color_bright_lilac" = "bright lilac";
-
 "color_pale_orange" = "pale orange";
-
 "color_brick" = "brick";
-
 "color_pea" = "pea";
-
 "color_aqua_marine" = "aqua marine";
-
 "color_olive_brown" = "olive brown";
-
 "color_grape_purple" = "grape purple";
-
 "color_pale_light_green" = "pale light green";
-
 "color_seaweed_green" = "seaweed green";
-
 "color_strong_blue" = "strong blue";
-
 "color_light_peach" = "light peach";
-
 "color_deep_sea_blue" = "deep sea blue";
-
 "color_purpley_grey" = "purpley grey";
-
 "color_mustard_green" = "mustard green";
-
 "color_mahogany" = "mahogany";
-
 "color_baby_shit_green" = "baby shit green";
-
 "color_browny_orange" = "browny orange";
-
 "color_darkish_pink" = "darkish pink";
-
 "color_light_khaki" = "light khaki";
-
 "color_camel" = "camel";
-
 "color_twilight" = "twilight";
-
 "color_red_pink" = "red pink";
-
 "color_shamrock_green" = "shamrock green";
-
 "color_hazel" = "hazel";
-
 "color_sunshine_yellow" = "sunshine yellow";
-
 "color_peacock_blue" = "peacock blue";
-
 "color_manilla" = "manilla";
-
 "color_baby_poo" = "baby poo";
-
 "color_banana" = "banana";
-
 "color_dark_purple" = "dark purple";
-
 "color_green/yellow" = "green/yellow";
-
 "color_light_olive_green" = "light olive green";
-
 "color_robin_egg_blue" = "robin egg blue";
-
 "color_leafy_green" = "leafy green";
-
 "color_dirty_green" = "dirty green";
-
 "color_burnt_red" = "burnt red";
-
 "color_blue_green" = "blue green";
-
 "color_pale_rose" = "pale rose";
-
 "color_golden_rod" = "golden rod";
-
 "color_deep_sky_blue" = "deep sky blue";
 
+// amber
 "color_amber" = "amber";
-
 "color_boring_green" = "boring green";
-
 "color_blue/green" = "blue/green";
-
 "color_blue/grey" = "blue/grey";
-
 "color_muted_green" = "muted green";
-
 "color_orangeish" = "orangeish";
-
 "color_greenish_blue" = "greenish blue";
-
 "color_sandy_brown" = "sandy brown";
-
 "color_greyish_pink" = "greyish pink";
-
 "color_ecru" = "ecru";
-
 "color_pale_violet" = "pale violet";
-
 "color_purple_blue" = "purple blue";
-
 "color_dark_tan" = "dark tan";
-
 "color_pale_blue" = "pale blue";
-
 "color_night_blue" = "night blue";
-
 "color_navy" = "navy";
-
 "color_pale_mauve" = "pale mauve";
-
 "color_banana_yellow" = "banana yellow";
 
+// acid green
 "color_acid_green" = "acid green";
-
 "color_very_dark_blue" = "very dark blue";
-
 "color_midnight_blue" = "midnight blue";
-
 "color_brown_grey" = "brown grey";
-
 "color_asparagus" = "asparagus";
-
 "color_ocean_green" = "ocean green";
-
 "color_warm_purple" = "warm purple";
-
 "color_light_royal_blue" = "light royal blue";
-
 "color_pinkish_purple" = "pinkish purple";
-
 "color_salmon" = "salmon";
-
 "color_deep_aqua" = "deep aqua";
-
 "color_aqua" = "aqua";
-
 "color_deep_rose" = "deep rose";
-
 "color_turquoise_blue" = "turquoise blue";
-
 "color_vomit_green" = "vomit green";
-
 "color_neon_red" = "neon red";
-
 "color_ultramarine_blue" = "ultramarine blue";
-
 "color_shamrock" = "shamrock";
-
 "color_pear" = "pear";
-
 "color_light_mint_green" = "light mint green";
-
 "color_vivid_blue" = "vivid blue";
-
 "color_orangey_brown" = "orangey brown";
-
 "color_sky_blue" = "sky blue";
-
 "color_grey_teal" = "grey teal";
-
 "color_dark_sage" = "dark sage";
-
 "color_piss_yellow" = "piss yellow";
-
 "color_canary" = "canary";
-
 "color_dirty_pink" = "dirty pink";
-
 "color_dark_sand" = "dark sand";
-
 "color_cloudy_blue" = "cloudy blue";
-
 "color_reddish_grey" = "reddish grey";
-
 "color_stormy_blue" = "stormy blue";
-
 "color_tomato" = "tomato";
-
 "color_pale_turquoise" = "pale turquoise";
-
 "color_coral" = "coral";
-
 "color_lilac" = "lilac";
-
 "color_dark_brown" = "dark brown";
-
 "color_windows_blue" = "windows blue";
-
 "color_blush_pink" = "blush pink";
-
 "color_off_blue" = "off blue";
-
 "color_light_maroon" = "light maroon";
-
 "color_perrywinkle" = "perrywinkle";
-
 "color_caramel" = "caramel";
-
 "color_lichen" = "lichen";
-
 "color_jungle_green" = "jungle green";
-
 "color_plum" = "plum";
-
 "color_chartreuse" = "chartreuse";
-
 "color_very_dark_purple" = "very dark purple";
-
 "color_toupe" = "toupe";
-
 "color_dark_aquamarine" = "dark aquamarine";
-
 "color_cream" = "cream";
-
 "color_ultramarine" = "ultramarine";
-
 "color_light_neon_green" = "light neon green";
-
 "color_charcoal_grey" = "charcoal grey";
-
 "color_bright_olive" = "bright olive";
-
 "color_wheat" = "wheat";
-
 "color_terra_cotta" = "terra cotta";
-
 "color_dark_mint_green" = "dark mint green";
-
 "color_vivid_green" = "vivid green";
-
 "color_greenish_teal" = "greenish teal";
-
 "color_rose_pink" = "rose pink";
-
 "color_prussian_blue" = "prussian blue";
-
 "color_bluish_grey" = "bluish grey";
-
 "color_dull_brown" = "dull brown";
-
 "color_aqua_green" = "aqua green";
-
 "color_reddish" = "reddish";
-
 "color_pale_red" = "pale red";
-
 "color_greenish_beige" = "greenish beige";
-
 "color_pale_peach" = "pale peach";
-
 "color_deep_pink" = "deep pink";
-
 "color_forrest_green" = "forrest green";
-
 "color_rusty_red" = "rusty red";
-
 "color_mint_green" = "mint green";
-
 "color_light_orange" = "light orange";
-
 "color_orange_red" = "orange red";
-
 "color_dark_violet" = "dark violet";
-
 "color_grey_green" = "grey green";
-
 "color_liliac" = "liliac";
-
 "color_medium_grey" = "medium grey";
-
 "color_pig_pink" = "pig pink";
-
 "color_sienna" = "sienna";
-
 "color_greenish_yellow" = "greenish yellow";
-
 "color_powder_blue" = "powder blue";
-
 "color_purpley" = "purpley";
-
 "color_blueberry" = "blueberry";
-
 "color_tan_green" = "tan green";
-
 "color_mud_brown" = "mud brown";
-
 "color_rose" = "rose";
-
 "color_pastel_green" = "pastel green";
-
 "color_rose_red" = "rose red";
-
 "color_icky_green" = "icky green";
-
 "color_teal" = "teal";
-
 "color_yellow_tan" = "yellow tan";
-
 "color_bubblegum" = "bubblegum";
-
 "color_celadon" = "celadon";
-
 "color_blue_purple" = "blue purple";
-
 "color_very_dark_brown" = "very dark brown";
 
+// adobe
 "color_adobe" = "adobe";
-
 "color_dodger_blue" = "dodger blue";
-
 "color_nasty_green" = "nasty green";
-
 "color_kelley_green" = "kelley green";
-
 "color_purple" = "purple";
-
 "color_dark_cream" = "dark cream";
-
 "color_rosa" = "rosa";
-
 "color_golden_yellow" = "golden yellow";
-
 "color_yellowish_tan" = "yellowish tan";
-
 "color_light_olive" = "light olive";
-
 "color_terracotta" = "terracotta";
-
 "color_petrol" = "petrol";
-
 "color_sand" = "sand";
-
 "color_bright_sky_blue" = "bright sky blue";
-
 "color_slate" = "slate";
-
 "color_copper" = "copper";
-
 "color_neon_pink" = "neon pink";
-
 "color_turquoise" = "turquoise";
 
+// algae green
 "color_algae_green" = "algae green";
-
 "color_topaz" = "topaz";
-
 "color_plum_purple" = "plum purple";
-
 "color_claret" = "claret";
-
 "color_pale_gold" = "pale gold";
-
 "color_light_rose" = "light rose";
-
 "color_bright_yellow" = "bright yellow";
-
 "color_orange" = "orange";
-
 "color_viridian" = "viridian";
-
 "color_orchid" = "orchid";
-
 "color_barbie_pink" = "barbie pink";
 
+// algae
 "color_algae" = "algae";
-
 "color_iris" = "iris";
-
 "color_dark_navy_blue" = "dark navy blue";
-
 "color_light_yellow" = "light yellow";
-
 "color_candy_pink" = "candy pink";
-
 "color_ugly_pink" = "ugly pink";
-
 "color_greyish_teal" = "greyish teal";
-
 "color_pumpkin" = "pumpkin";
-
 "color_bluish" = "bluish";
-
 "color_dusty_red" = "dusty red";
-
 "color_squash" = "squash";
-
 "color_red_brown" = "red brown";
-
 "color_strong_pink" = "strong pink";
-
 "color_deep_orange" = "deep orange";
-
 "color_dirty_purple" = "dirty purple";
-
 "color_lime" = "lime";
-
 "color_pinkish_brown" = "pinkish brown";
-
 "color_dirty_blue" = "dirty blue";
-
 "color_deep_red" = "deep red";
-
 "color_water_blue" = "water blue";
-
 "color_light_periwinkle" = "light periwinkle";
-
 "color_dusty_pink" = "dusty pink";
-
 "color_crimson" = "crimson";
-
 "color_light_eggplant" = "light eggplant";
-
 "color_eggshell_blue" = "eggshell blue";
-
 "color_spruce" = "spruce";
-
 "color_raw_sienna" = "raw sienna";
-
 "color_baby_poop_green" = "baby poop green";
-
 "color_light_aqua" = "light aqua";
-
 "color_brown" = "brown";
-
 "color_cerulean" = "cerulean";
-
 "color_british_racing_green" = "british racing green";
-
 "color_pale_aqua" = "pale aqua";
-
 "color_grey_pink" = "grey pink";
-
 "color_ugly_blue" = "ugly blue";
-
 "color_denim" = "denim";
-
 "color_light_green_blue" = "light green blue";
-
 "color_robin's_egg_blue" = "robin's egg blue";
-
 "color_chestnut" = "chestnut";
-
 "color_bright_lime" = "bright lime";
-
 "color_purpley_pink" = "purpley pink";
-
 "color_faded_blue" = "faded blue";
-
 "color_sunflower" = "sunflower";
-
 "color_french_blue" = "french blue";
-
 "color_light_navy" = "light navy";
-
 "color_lightish_purple" = "lightish purple";
-
 "color_light_greenish_blue" = "light greenish blue";
-
 "color_vibrant_blue" = "vibrant blue";
-
 "color_red_wine" = "red wine";
-
 "color_darkish_red" = "darkish red";
-
 "color_bluey_grey" = "bluey grey";
-
 "color_yellowy_green" = "yellowy green";
-
 "color_pink" = "pink";
-
 "color_primary_blue" = "primary blue";
-
 "color_wintergreen" = "wintergreen";
-
 "color_ugly_yellow" = "ugly yellow";
-
 "color_purple_grey" = "purple grey";
-
 "color_rust_orange" = "rust orange";
-
 "color_light_bright_green" = "light bright green";
-
 "color_orangey_yellow" = "orangey yellow";
-
 "color_midnight" = "midnight";
-
 "color_maize" = "maize";
-
 "color_muddy_green" = "muddy green";
-
 "color_grey_brown" = "grey brown";
-
 "color_purplish_blue" = "purplish blue";
-
 "color_buff" = "buff";
-
 "color_pea_soup" = "pea soup";
-
 "color_sand_brown" = "sand brown";
-
 "color_puce" = "puce";
-
 "color_orange_brown" = "orange brown";
-
 "color_moss_green" = "moss green";
-
 "color_purpleish_pink" = "purpleish pink";
-
 "color_bright_pink" = "bright pink";
-
 "color_brownish_purple" = "brownish purple";
-
 "color_light_blue" = "light blue";
-
 "color_pastel_purple" = "pastel purple";
-
 "color_violet" = "violet";
-
 "color_bright_light_blue" = "bright light blue";
-
 "color_dark_blue_grey" = "dark blue grey";
-
 "color_indigo" = "indigo";
-
 "color_dark_blue" = "dark blue";
-
 "color_mint" = "mint";
-
 "color_dark_gold" = "dark gold";
-
 "color_gold" = "gold";
-
 "color_poo" = "poo";
-
 "color_purple/blue" = "purple/blue";
-
 "color_sand_yellow" = "sand yellow";
-
 "color_dark_lime" = "dark lime";
-
 "color_fresh_green" = "fresh green";
-
 "color_sickly_green" = "sickly green";
-
 "color_rust" = "rust";
-
 "color_pinky" = "pinky";
-
 "color_dark_fuchsia" = "dark fuchsia";
-
 "color_sunny_yellow" = "sunny yellow";
-
 "color_red_purple" = "red purple";
-
 "color_easter_green" = "easter green";
-
 "color_ocher" = "ocher";
-
 "color_fern_green" = "fern green";
-
 "color_green_yellow" = "green yellow";
-
 "color_light_beige" = "light beige";
-
 "color_lemon_lime" = "lemon lime";
-
 "color_true_green" = "true green";
-
 "color_warm_blue" = "warm blue";
-
 "color_light_mint" = "light mint";
-
 "color_velvet" = "velvet";
-
 "color_faded_pink" = "faded pink";
-
 "color_green/blue" = "green/blue";
-
 "color_coffee" = "coffee";
-
 "color_aubergine" = "aubergine";
-
 "color_dusty_blue" = "dusty blue";
-
 "color_brown_yellow" = "brown yellow";
-
 "color_dull_blue" = "dull blue";
-
 "color_dark_mint" = "dark mint";
-
 "color_purpley_blue" = "purpley blue";
-
 "color_darkish_green" = "darkish green";
-
 "color_highlighter_green" = "highlighter green";
-
 "color_dark_indigo" = "dark indigo";
-
 "color_carnation" = "carnation";
-
 "color_light_indigo" = "light indigo";
-
 "color_light_cyan" = "light cyan";
-
 "color_sea" = "sea";
-
 "color_hot_purple" = "hot purple";
-
 "color_radioactive_green" = "radioactive green";
-
 "color_pink_purple" = "pink purple";
-
 "color_light_sky_blue" = "light sky blue";
-
 "color_twilight_blue" = "twilight blue";
-
 "color_light_sea_green" = "light sea green";
-
 "color_light_lavendar" = "light lavendar";
-
 "color_royal" = "royal";
-
 "color_light_gold" = "light gold";
-
 "color_dark_green_blue" = "dark green blue";
-
 "color_seaweed" = "seaweed";
-
 "color_tealish_green" = "tealish green";
-
 "color_grassy_green" = "grassy green";
-
 "color_terracota" = "terracota";
-
 "color_cherry" = "cherry";
-
 "color_light_lavender" = "light lavender";
-
 "color_dark_beige" = "dark beige";
-
 "color_pale_lilac" = "pale lilac";
-
 "color_yellowish_green" = "yellowish green";
-
 "color_dark_cyan" = "dark cyan";
-
 "color_pinkish" = "pinkish";
-
 "color_grape" = "grape";
-
 "color_steel_blue" = "steel blue";
-
 "color_turtle_green" = "turtle green";
-
 "color_warm_grey" = "warm grey";
-
 "color_cherry_red" = "cherry red";
-
 "color_purple/pink" = "purple/pink";
-
 "color_lighter_green" = "lighter green";
-
 "color_rust_brown" = "rust brown";
-
 "color_cadet_blue" = "cadet blue";
-
 "color_teal_blue" = "teal blue";
-
 "color_kelly_green" = "kelly green";
-
 "color_red_orange" = "red orange";
-
 "color_light_teal" = "light teal";
-
 "color_parchment" = "parchment";
-
 "color_sapphire" = "sapphire";
-
 "color_dusty_purple" = "dusty purple";
-
 "color_dusty_green" = "dusty green";
-
 "color_cobalt" = "cobalt";
-
 "color_mid_green" = "mid green";
-
 "color_dust" = "dust";
-
 "color_emerald_green" = "emerald green";
-
 "color_cyan" = "cyan";
-
 "color_butter" = "butter";
-
 "color_dark_green" = "dark green";
-
 "color_bluey_green" = "bluey green";
-
 "color_light_lime_green" = "light lime green";
-
 "color_dark_royal_blue" = "dark royal blue";
-
 "color_teal_green" = "teal green";
-
 "color_baby_green" = "baby green";
-
 "color_medium_blue" = "medium blue";
-
 "color_pastel_pink" = "pastel pink";
-
 "color_soft_pink" = "soft pink";
-
 "color_flat_blue" = "flat blue";
-
 "color_bright_cyan" = "bright cyan";
-
 "color_milk_chocolate" = "milk chocolate";
 
+// almost black
 "color_almost_black" = "almost black";
-
 "color_electric_purple" = "electric purple";
-
 "color_bluegreen" = "bluegreen";
-
 "color_medium_green" = "medium green";
-
 "color_light_burgundy" = "light burgundy";
-
 "color_tan" = "tan";
-
 "color_pale_teal" = "pale teal";
-
 "color_yellow_brown" = "yellow brown";
-
 "color_purplish_red" = "purplish red";
-
 "color_dark_mustard" = "dark mustard";
-
 "color_purpleish_blue" = "purpleish blue";
-
 "color_very_light_green" = "very light green";
-
 "color_light_purple" = "light purple";
-
 "color_dark_olive_green" = "dark olive green";
-
 "color_greyish" = "greyish";
-
 "color_dull_red" = "dull red";
-
 "color_soft_green" = "soft green";
-
 "color_off_yellow" = "off yellow";
-
 "color_fluro_green" = "fluro green";
-
 "color_orangish_red" = "orangish red";
-
 "color_tangerine" = "tangerine";
-
 "color_cool_grey" = "cool grey";
-
 "color_mud_green" = "mud green";
-
 "color_mocha" = "mocha";
-
 "color_mango" = "mango";
-
 "color_olive_drab" = "olive drab";
-
 "color_steel" = "steel";
-
 "color_dirt_brown" = "dirt brown";
-
 "color_bright_violet" = "bright violet";
-
 "color_raw_umber" = "raw umber";
-
 "color_strawberry" = "strawberry";
-
 "color_dark_olive" = "dark olive";
-
 "color_snot" = "snot";
-
 "color_lightblue" = "lightblue";
-
 "color_neon_yellow" = "neon yellow";
-
 "color_dark_pastel_green" = "dark pastel green";
-
 "color_purplish_grey" = "purplish grey";
-
 "color_dark_coral" = "dark coral";
-
 "color_baby_poop" = "baby poop";
-
 "color_bruise" = "bruise";
-
 "color_kermit_green" = "kermit green";
-
 "color_yellowgreen" = "yellowgreen";
-
 "color_greyish_brown" = "greyish brown";
-
 "color_putty" = "putty";
-
 "color_orangish" = "orangish";
-
 "color_cool_green" = "cool green";
-
 "color_pale_brown" = "pale brown";
-
 "color_clear_blue" = "clear blue";
-
 "color_greyblue" = "greyblue";
-
 "color_marine" = "marine";
-
 "color_melon" = "melon";
-
 "color_sandstone" = "sandstone";
-
 "color_tree_green" = "tree green";
-
 "color_wisteria" = "wisteria";
-
 "color_hot_magenta" = "hot magenta";
-
 "color_pine_green" = "pine green";
-
 "color_sage" = "sage";
-
 "color_dark_lilac" = "dark lilac";
-
 "color_brown_green" = "brown green";
-
 "color_green_blue" = "green blue";
-
 "color_watermelon" = "watermelon";
-
 "color_darkish_purple" = "darkish purple";
-
 "color_bland" = "bland";
-
 "color_berry" = "berry";
-
 "color_pale_olive_green" = "pale olive green";
-
 "color_mustard_yellow" = "mustard yellow";
-
 "color_jade" = "jade";
-
 "color_pea_green" = "pea green";
-
 "color_vibrant_green" = "vibrant green";
-
 "color_pale_grey" = "pale grey";
-
 "color_dark_slate_blue" = "dark slate blue";
-
 "color_eggplant_purple" = "eggplant purple";
-
 "color_very_pale_green" = "very pale green";
-
 "color_brownish_grey" = "brownish grey";
-
 "color_navy_blue" = "navy blue";
-
 "color_mauve" = "mauve";
-
 "color_electric_lime" = "electric lime";
-
 "color_straw" = "straw";
-
 "color_brown_red" = "brown red";
-
 "color_greyish_blue" = "greyish blue";
-
 "color_dark_red" = "dark red";
-
 "color_deep_lavender" = "deep lavender";
-
 "color_light_navy_blue" = "light navy blue";
-
 "color_black" = "black";
-
 "color_beige" = "beige";
-
 "color_ugly_green" = "ugly green";
-
 "color_pastel_yellow" = "pastel yellow";
-
 "color_pinkish_red" = "pinkish red";
-
 "color_light_forest_green" = "light forest green";
-
 "color_deep_blue" = "deep blue";
-
 "color_puke_brown" = "puke brown";
-
 "color_pale_yellow" = "pale yellow";
-
 "color_mustard" = "mustard";
-
 "color_wine_red" = "wine red";
-
 "color_light_pastel_green" = "light pastel green";
-
 "color_greeny_yellow" = "greeny yellow";
-
 "color_sandy" = "sandy";
-
 "color_cement" = "cement";
-
 "color_evergreen" = "evergreen";
-
 "color_electric_blue" = "electric blue";
-
 "color_cornflower" = "cornflower";
-
 "color_greeny_blue" = "greeny blue";
-
 "color_leaf_green" = "leaf green";
-
 "color_battleship_grey" = "battleship grey";
-
 "color_booger_green" = "booger green";
-
 "color_lightish_red" = "lightish red";
-
 "color_egg_shell" = "egg shell";
-
 "color_tomato_red" = "tomato red";
-
 "color_vomit" = "vomit";
-
 "color_grey/blue" = "grey/blue";
-
 "color_dark_periwinkle" = "dark periwinkle";
-
 "color_muddy_brown" = "muddy brown";
-
 "color_burnt_umber" = "burnt umber";
-
 "color_seafoam_green" = "seafoam green";
-
 "color_maroon" = "maroon";
-
 "color_bright_green" = "bright green";
-
 "color_pale_lavender" = "pale lavender";
-
 "color_dandelion" = "dandelion";
-
 "color_browny_green" = "browny green";
-
 "color_cocoa" = "cocoa";
-
 "color_dark_teal" = "dark teal";
-
 "color_light_brown" = "light brown";
-
 "color_booger" = "booger";
-
 "color_brownish_yellow" = "brownish yellow";
-
 "color_drab" = "drab";
-
 "color_mustard_brown" = "mustard brown";
-
 "color_brownish_red" = "brownish red";
-
 "color_charcoal" = "charcoal";
-
 "color_greeny_brown" = "greeny brown";
-
 "color_blue" = "blue";
-
 "color_sick_green" = "sick green";
-
 "color_pale_lime_green" = "pale lime green";
-
 "color_sepia" = "sepia";
-
 "color_cerulean_blue" = "cerulean blue";
-
 "color_slate_grey" = "slate grey";
-
 "color_midnight_purple" = "midnight purple";
-
 "color_avocado" = "avocado";
-
 "color_very_light_pink" = "very light pink";
-
 "color_golden_brown" = "golden brown";
-
 "color_snot_green" = "snot green";
-
 "color_dusk_blue" = "dusk blue";
-
 "color_pistachio" = "pistachio";
-
 "color_reddish_brown" = "reddish brown";
-
 "color_dark_peach" = "dark peach";
-
 "color_muted_purple" = "muted purple";
-
 "color_kiwi_green" = "kiwi green";
-
 "color_poison_green" = "poison green";
-
 "color_fawn" = "fawn";
-
 "color_pea_soup_green" = "pea soup green";
-
 "color_soft_purple" = "soft purple";
-
 "color_khaki_green" = "khaki green";
-
 "color_carnation_pink" = "carnation pink";
-
 "color_russet" = "russet";
-
 "color_purple_brown" = "purple brown";
-
 "color_faded_purple" = "faded purple";
-
 "color_greyish_green" = "greyish green";
-
 "color_warm_pink" = "warm pink";
-
 "color_fern" = "fern";
-
 "color_ugly_brown" = "ugly brown";
-
 "color_dark_pink" = "dark pink";
-
 "color_dark_grey_blue" = "dark grey blue";
-
 "color_merlot" = "merlot";
-
 "color_dark_orange" = "dark orange";
-
 "color_wine" = "wine";
-
 "color_eggshell" = "eggshell";
-
 "color_bright_purple" = "bright purple";
-
 "color_flat_green" = "flat green";
-
 "color_nice_blue" = "nice blue";
-
 "color_bordeaux" = "bordeaux";
-
 "color_marigold" = "marigold";
-
 "color_gross_green" = "gross green";
-
 "color_steel_grey" = "steel grey";
-
 "color_hot_green" = "hot green";
-
 "color_avocado_green" = "avocado green";
-
 "color_barney_purple" = "barney purple";
-
 "color_grass_green" = "grass green";
-
 "color_burple" = "burple";
-
 "color_shit_brown" = "shit brown";
-
 "color_dusty_rose" = "dusty rose";
-
 "color_light_blue_grey" = "light blue grey";
-
 "color_deep_purple" = "deep purple";
-
 "color_pale_cyan" = "pale cyan";
-
 "color_emerald" = "emerald";
-
 "color_blurple" = "blurple";
-
 "color_purply" = "purply";
-
 "color_grey_purple" = "grey purple";
-
 "color_pale_purple" = "pale purple";
-
 "color_light_yellow_green" = "light yellow green";
-
 "color_lightish_blue" = "lightish blue";
-
 "color_sap_green" = "sap green";
-
 "color_rosy_pink" = "rosy pink";
-
 "color_pure_blue" = "pure blue";
-
 "color_neon_blue" = "neon blue";
-
 "color_light_seafoam_green" = "light seafoam green";
-
 "color_reddish_pink" = "reddish pink";
-
 "color_magenta" = "magenta";
-
 "color_light_light_green" = "light light green";
-
 "color_bright_red" = "bright red";
-
 "color_carmine" = "carmine";
-
 "color_bluegrey" = "bluegrey";
-
 "color_mushroom" = "mushroom";
-
 "color_bright_turquoise" = "bright turquoise";
-
 "color_gunmetal" = "gunmetal";
-
 "color_deep_brown" = "deep brown";
-
 "color_bright_teal" = "bright teal";
-
 "color_auburn" = "auburn";
-
 "color_spring_green" = "spring green";
-
 "color_carolina_blue" = "carolina blue";
-
 "color_lemon_green" = "lemon green";
 
+// apple
 "color_apple" = "apple";
-
 "color_light_grass_green" = "light grass green";
-
 "color_weird_green" = "weird green";
-
 "color_muted_blue" = "muted blue";
-
 "color_lawn_green" = "lawn green";
-
 "color_lavender" = "lavender";
-
 "color_custard" = "custard";
-
 "color_light_mauve" = "light mauve";
-
 "color_fluorescent_green" = "fluorescent green";
-
 "color_kiwi" = "kiwi";
-
 "color_red" = "red";
-
 "color_poo_brown" = "poo brown";
-
 "color_chocolate" = "chocolate";
-
 "color_deep_violet" = "deep violet";
-
 "color_pinkish_grey" = "pinkish grey";
-
 "color_light_magenta" = "light magenta";
-
 "color_old_pink" = "old pink";
-
 "color_butter_yellow" = "butter yellow";
-
 "color_darkish_blue" = "darkish blue";
-
 "color_ruby" = "ruby";
-
 "color_purply_pink" = "purply pink";
-
 "color_pale_magenta" = "pale magenta";
-
 "color_true_blue" = "true blue";
-
 "color_lipstick" = "lipstick";
-
 "color_pumpkin_orange" = "pumpkin orange";
-
 "color_heliotrope" = "heliotrope";
-
 "color_drab_green" = "drab green";
-
 "color_orangered" = "orangered";
-
 "color_bubble_gum_pink" = "bubble gum pink";
-
 "color_chocolate_brown" = "chocolate brown";
-
 "color_dirty_yellow" = "dirty yellow";
-
 "color_brownish" = "brownish";
-
 "color_powder_pink" = "powder pink";
-
 "color_sickly_yellow" = "sickly yellow";
-
 "color_tan_brown" = "tan brown";
-
 "color_golden" = "golden";
-
 "color_pale_olive" = "pale olive";
-
 "color_ivory" = "ivory";
-
 "color_indian_red" = "indian red";
-
 "color_sea_green" = "sea green";
-
 "color_khaki" = "khaki";
-
 "color_forest" = "forest";
-
 "color_grey" = "grey";
-
 "color_purplish" = "purplish";
-
 "color_blue_with_a_hint_of_purple" = "blue with a hint of purple";
-
 "color_rich_purple" = "rich purple";
-
 "color_light_seafoam" = "light seafoam";
-
 "color_creme" = "creme";
-
 "color_heather" = "heather";
-
 "color_yellow_ochre" = "yellow ochre";
-
 "color_blood" = "blood";
-
 "color_ugly_purple" = "ugly purple";
-
 "color_vibrant_purple" = "vibrant purple";
-
 "color_purple_red" = "purple red";
-
 "color_deep_lilac" = "deep lilac";
-
 "color_light_tan" = "light tan";
-
 "color_off_green" = "off green";
-
 "color_dusk" = "dusk";
-
 "color_brownish_green" = "brownish green";
-
 "color_turquoise_green" = "turquoise green";
-
 "color_aqua_blue" = "aqua blue";
-
 "color_dark_aqua" = "dark aqua";
-
 "color_clay" = "clay";
-
 "color_rusty_orange" = "rusty orange";
-
 "color_barf_green" = "barf green";
-
 "color_neon_green" = "neon green";
-
 "color_pink/purple" = "pink/purple";
-
 "color_dark_maroon" = "dark maroon";
-
 "color_bright_lime_green" = "bright lime green";
-
 "color_coral_pink" = "coral pink";
-
 "color_pinkish_orange" = "pinkish orange";
-
 "color_deep_green" = "deep green";
-
 "color_pale_lime" = "pale lime";
-
 "color_cool_blue" = "cool blue";
-
 "color_taupe" = "taupe";
-
 "color_goldenrod" = "goldenrod";
-
 "color_electric_pink" = "electric pink";
-
 "color_bubblegum_pink" = "bubblegum pink";
-
 "color_pale_sky_blue" = "pale sky blue";
-
 "color_deep_turquoise" = "deep turquoise";
-
 "color_very_light_brown" = "very light brown";
-
 "color_light_mustard" = "light mustard";
-
 "color_bright_yellow_green" = "bright yellow green";
-
 "color_rust_red" = "rust red";
-
 "color_dull_pink" = "dull pink";
-
 "color_dark_sea_green" = "dark sea green";
-
 "color_slate_blue" = "slate blue";
-
 "color_dark" = "dark";
-
 "color_baby_puke_green" = "baby puke green";
-
 "color_greenish_brown" = "greenish brown";
-
 "color_light_bluish_green" = "light bluish green";
-
 "color_brick_orange" = "brick orange";
-
 "color_dark_plum" = "dark plum";
-
 "color_poop_green" = "poop green";
 
+// amethyst
 "color_amethyst" = "amethyst";
-
 "color_lightish_green" = "lightish green";
-
 "color_dusky_rose" = "dusky rose";
-
 "color_pinkish_tan" = "pinkish tan";
-
 "color_dark_seafoam_green" = "dark seafoam green";
-
 "color_green_brown" = "green brown";
-
 "color_baby_blue" = "baby blue";
-
 "color_dark_hot_pink" = "dark hot pink";
-
 "color_pinky_red" = "pinky red";
-
 "color_diarrhea" = "diarrhea";
-
 "color_green_grey" = "green grey";
-
 "color_eggplant" = "eggplant";
-
 "color_dull_purple" = "dull purple";
-
 "color_light_turquoise" = "light turquoise";
-
 "color_greeny_grey" = "greeny grey";
-
 "color_dark_khaki" = "dark khaki";
-
 "color_sage_green" = "sage green";
-
 "color_dark_navy" = "dark navy";
-
 "color_dull_yellow" = "dull yellow";
-
 "color_yellowy_brown" = "yellowy brown";
-
 "color_blood_orange" = "blood orange";
-
 "color_violet_red" = "violet red";
-
 "color_peach" = "peach";
-
 "color_light_urple" = "light urple";
-
 "color_murky_green" = "murky green";
-
 "color_light_yellowish_green" = "light yellowish green";
-
 "color_very_light_purple" = "very light purple";
-
 "color_grass" = "grass";
-
 "color_shocking_pink" = "shocking pink";
-
 "color_medium_purple" = "medium purple";
-
 "color_dark_grass_green" = "dark grass green";
-
 "color_pastel_orange" = "pastel orange";
-
 "color_yellow/green" = "yellow/green";
-
 "color_old_rose" = "old rose";
-
 "color_medium_pink" = "medium pink";
-
 "color_dark_lavender" = "dark lavender";
-
 "color_leaf" = "leaf";
-
 "color_minty_green" = "minty green";
-
 "color_dark_magenta" = "dark magenta";
-
 "color_sea_blue" = "sea blue";
-
 "color_dark_seafoam" = "dark seafoam";
-
 "color_light_grey_green" = "light grey green";
-
 "color_tea_green" = "tea green";
-
 "color_burgundy" = "burgundy";
-
 "color_puke_yellow" = "puke yellow";
-
 "color_dusty_lavender" = "dusty lavender";
-
 "color_indigo_blue" = "indigo blue";
-
 "color_light_green" = "light green";
-
 "color_faded_red" = "faded red";
-
 "color_grey_blue" = "grey blue";
-
 "color_periwinkle" = "periwinkle";
-
 "color_blue/purple" = "blue/purple";
-
 "color_blood_red" = "blood red";
-
 "color_fire_engine_red" = "fire engine red";
-
 "color_blue_blue" = "blue blue";
-
 "color_celery" = "celery";
-
 "color_brick_red" = "brick red";
-
 "color_muddy_yellow" = "muddy yellow";
-
 "color_leather" = "leather";
-
 "color_reddish_orange" = "reddish orange";
-
 "color_cornflower_blue" = "cornflower blue";
-
 "color_pale_salmon" = "pale salmon";
-
 "color_aquamarine" = "aquamarine";
-
 "color_dark_yellow" = "dark yellow";
-
 "color_grapefruit" = "grapefruit";
-
 "color_brownish_orange" = "brownish orange";
-
 "color_military_green" = "military green";
-
 "color_cranberry" = "cranberry";
-
 "color_ice_blue" = "ice blue";
-
 "color_rich_blue" = "rich blue";
-
 "color_cerise" = "cerise";
-
 "color_navy_green" = "navy green";
-
 "color_pastel_blue" = "pastel blue";
-
 "color_orange_yellow" = "orange yellow";
-
 "color_violet_blue" = "violet blue";
-
 "color_sun_yellow" = "sun yellow";
-
 "color_olive" = "olive";
-
 "color_light_sage" = "light sage";
-
 "color_deep_teal" = "deep teal";
-
 "color_pink_red" = "pink red";
-
 "color_greenish" = "greenish";
-
 "color_washed_out_green" = "washed out green";
-
 "color_hot_pink" = "hot pink";
-
 "color_dark_yellow_green" = "dark yellow green";
-
 "color_denim_blue" = "denim blue";
-
 "color_camo" = "camo";
-
 "color_sunflower_yellow" = "sunflower yellow";
-
 "color_very_pale_blue" = "very pale blue";
-
 "color_key_lime" = "key lime";
-
 "color_green_apple" = "green apple";
-
 "color_deep_magenta" = "deep magenta";
-
 "color_bright_aqua" = "bright aqua";
-
 "color_dull_teal" = "dull teal";
-
 "color_greenish_cyan" = "greenish cyan";
-
 "color_vomit_yellow" = "vomit yellow";
-
 "color_dark_forest_green" = "dark forest green";
-
 "color_lightgreen" = "lightgreen";
-
 "color_bluish_green" = "bluish green";
-
 "color_yellow_green" = "yellow green";
-
 "color_bottle_green" = "bottle green";
-
 "color_bright_lavender" = "bright lavender";
-
 "color_foam_green" = "foam green";
-
 "color_grey/green" = "grey/green";
-
 "color_slate_green" = "slate green";
-
 "color_sky" = "sky";
-
 "color_bright_light_green" = "bright light green";
-
 "color_azure" = "azure";
-
 "color_greenblue" = "greenblue";
-
 "color_lemon_yellow" = "lemon yellow";
-
 "color_bright_blue" = "bright blue";
-
 "color_yellow" = "yellow";
-
 "color_jade_green" = "jade green";
-
 "color_purplish_brown" = "purplish brown";
-
 "color_slime_green" = "slime green";
-
 "color_royal_blue" = "royal blue";
-
 "color_dusty_orange" = "dusty orange";
-
 "color_darkgreen" = "darkgreen";
-
 "color_greenish_tan" = "greenish tan";
-
 "color_dusty_teal" = "dusty teal";
-
 "color_clay_brown" = "clay brown";
-
 "color_bright_magenta" = "bright magenta";
-
 "color_light_plum" = "light plum";
-
 "color_baby_purple" = "baby purple";
-
 "color_hunter_green" = "hunter green";
-
 "color_olive_yellow" = "olive yellow";
-
 "color_ochre" = "ochre";
+"test" = "测试";
